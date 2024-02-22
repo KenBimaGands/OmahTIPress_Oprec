@@ -1,0 +1,11 @@
+Front-End Web Development Open Recruitment OmahTI 2024
+Ken Bima Satria Gandasasmita
+
+- NOTES!!
+
+1. the webpage is responsive but only in mobile media, and dekstop media, i havent put the media query for tablet device (sad emoji)
+2. the usage of the JS is purely for intercation in specific function only
+3. the dark mode is available!
+
+thanks, please accept me as part of OTI 2024 :)
+uploaded link: https://omah-ti-press-oprec.vercel.app/
